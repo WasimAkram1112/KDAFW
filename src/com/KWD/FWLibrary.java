@@ -1,4 +1,4 @@
-package com.qspiders;
+package com.KWD;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
